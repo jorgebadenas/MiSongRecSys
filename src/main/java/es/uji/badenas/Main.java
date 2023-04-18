@@ -1,4 +1,6 @@
-package es.uji.badenas;public class Main {
+package es.uji.badenas;
+
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
