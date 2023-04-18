@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e38549ad-952a-415b-9f1b-c0e849ed4458" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uji/badenas/tables/Table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uji/badenas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/uji/badenas/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uji/badenas/cvs/ReaderTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/uji/badenas/cvs/ReaderTemplate.java" afterDir="false" />
-    </list>
+    <list default="true" id="e38549ad-952a-415b-9f1b-c0e849ed4458" name="Changes" comment="Primer commit con ReaderTEmplate" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +57,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681800682625</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer commit con ReaderTEmplate">
+      <created>1681802112629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681802112629</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit con ReaderTEmplate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer commit con ReaderTEmplate" />
   </component>
 </project>
